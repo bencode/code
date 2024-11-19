@@ -1,8 +1,8 @@
 # Code
 
-- [codelab](https://bencode.github.io/code)
+- [CodeLab](https://bencode.github.io/code)
 
-关于代码的一些笔记
+Some notes about code
 
-- [函数式编程风格和流](https://bencode.github.io/code/notebooks/index.html?path=functional-and-stream.ipynb)
-- [从数字格式化到函数组合](https://bencode.github.io/code/notebooks/index.html?path=format-number.ipynb)
+- [Functional Programming Style and Streams](https://bencode.github.io/code/notebooks/index.html?path=functional-and-stream.ipynb)
+- [From Number Formatting to Function Composition](https://bencode.github.io/code/notebooks/index.html?path=format-number.ipynb)
