@@ -11,6 +11,7 @@ jupyterlite-pyodide-kernel==0.4.2
 jupyterlite-javascript-kernel==0.3.0
 
 jupyterlite-clojure-kernel-canary==0.1.1
+jupyterlite-scheme-kernel-canary==0.1.1
 
 # Language support (optional)
 jupyterlab-language-pack-fr-FR
