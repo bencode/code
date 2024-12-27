@@ -1,0 +1,15 @@
+{
+  "name": "@bcd/code",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "build": "jupyter lite build --contents content --output-dir dist",
+    "upload": "oss-upload dist -o code"
+  },
+  "keywords": [],
+  "author": "bencode@163.com",
+  "devDependencies": {
+    "ali-oss-upload-cli": "^2.1.0"
+  }
+}

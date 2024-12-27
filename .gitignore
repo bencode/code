@@ -116,3 +116,5 @@ dmypy.json
 _output
 
 venv/
+
+.env
