@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "jupyter lite build --contents content --output-dir dist",
-    "upload": "oss-upload dist -o code"
+    "upload": "oss-upload dist -o /"
   },
   "keywords": [],
   "author": "bencode@163.com",
