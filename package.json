@@ -8,7 +8,7 @@
     "upload": "oss-upload dist -o /"
   },
   "keywords": [],
-  "author": "bencode@163.com",
+  "author": "qijun.wei@hey.com",
   "devDependencies": {
     "ali-oss-upload-cli": "^2.1.0"
   }
