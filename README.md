@@ -1,3 +1,3 @@
 # Code
 
-- [CodeLab](https://www.qijun.io)
+- [CodeLab](https://bencode.github.io/code)
